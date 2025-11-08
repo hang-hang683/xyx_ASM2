@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="340252b1-baaf-4207-9b15-6e9e14b20c13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="27xe4fANCkyeZgIbi9Wi2ExL3B5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xm\dun" />
+      <recent name="D:\xm\dun\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xm\dun\src" />
+      <recent name="D:\xm\dun" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.atten_unet">
+    <configuration name="ConvUNeXt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DoubleUnet-pytorch-implementation-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ConvUNeXt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NestedUnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DoubleUnet-pytorch-implementation-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/NestedUnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DoubleUnet-pytorch-implementation-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/UNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="amsnewbnqian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DoubleUnet-pytorch-implementation-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/amsnewbnqian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="atten_unet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DoubleUnet-pytorch-implementation-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/atten_unet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.atten_unet" />
+        <item itemvalue="Python.NestedUnet" />
+        <item itemvalue="Python.UNet" />
+        <item itemvalue="Python.amsnewbnqian" />
+        <item itemvalue="Python.ConvUNeXt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="340252b1-baaf-4207-9b15-6e9e14b20c13" name="Default Changelist" comment="" />
+      <created>1650265975096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650265975096</updated>
+      <workItem from="1650265976637" duration="489000" />
+      <workItem from="1651130388976" duration="72000" />
+      <workItem from="1651130475514" duration="1625000" />
+      <workItem from="1651132246330" duration="1960000" />
+      <workItem from="1652369488369" duration="1972000" />
+      <workItem from="1652406577909" duration="1769000" />
+      <workItem from="1653888866233" duration="2049000" />
+      <workItem from="1654070764421" duration="3773000" />
+      <workItem from="1654190179426" duration="611000" />
+      <workItem from="1656508122073" duration="94000" />
+      <workItem from="1656555987985" duration="429000" />
+      <workItem from="1657538500015" duration="40000" />
+      <workItem from="1658390634548" duration="673000" />
+      <workItem from="1658818803970" duration="180000" />
+      <workItem from="1658819019583" duration="2358000" />
+      <workItem from="1662383702105" duration="13000" />
+      <workItem from="1662383722296" duration="33000" />
+      <workItem from="1662432093906" duration="2539000" />
+      <workItem from="1662520708452" duration="5708000" />
+      <workItem from="1662615609743" duration="3827000" />
+      <workItem from="1662632196616" duration="278000" />
+      <workItem from="1662632644480" duration="1241000" />
+      <workItem from="1662642339427" duration="197000" />
+      <workItem from="1662643255776" duration="252000" />
+      <workItem from="1662686889783" duration="8052000" />
+      <workItem from="1662973106544" duration="637000" />
+      <workItem from="1663034161938" duration="3243000" />
+      <workItem from="1663154885049" duration="8000" />
+      <workItem from="1663210052717" duration="2058000" />
+      <workItem from="1663219129592" duration="9000" />
+      <workItem from="1663314651402" duration="1006000" />
+      <workItem from="1663491133592" duration="650000" />
+      <workItem from="1663646025707" duration="13508000" />
+      <workItem from="1663832876106" duration="2613000" />
+      <workItem from="1663919167307" duration="5834000" />
+      <workItem from="1663939159661" duration="2172000" />
+      <workItem from="1663982928301" duration="480000" />
+      <workItem from="1663984145457" duration="5600000" />
+      <workItem from="1664021882950" duration="1566000" />
+      <workItem from="1664029645455" duration="1728000" />
+      <workItem from="1664070649163" duration="5632000" />
+      <workItem from="1664090317127" duration="940000" />
+      <workItem from="1664156738671" duration="19896000" />
+      <workItem from="1664283621409" duration="408000" />
+      <workItem from="1664284202867" duration="108202000" />
+      <workItem from="1664803991550" duration="390000" />
+      <workItem from="1664859067022" duration="7532000" />
+      <workItem from="1664932342636" duration="20173000" />
+      <workItem from="1665054773309" duration="7880000" />
+      <workItem from="1665126517583" duration="2660000" />
+      <workItem from="1665149724419" duration="36980000" />
+      <workItem from="1665368218069" duration="78916000" />
+      <workItem from="1665622892907" duration="244867000" />
+      <workItem from="1666148265794" duration="77468000" />
+      <workItem from="1666319868658" duration="52089000" />
+      <workItem from="1666515919889" duration="161615000" />
+      <workItem from="1667301272059" duration="5903000" />
+      <workItem from="1667463541970" duration="208000" />
+      <workItem from="1667464211806" duration="20000" />
+      <workItem from="1667466176047" duration="1587000" />
+      <workItem from="1667533571042" duration="2983000" />
+      <workItem from="1667652948527" duration="10812000" />
+      <workItem from="1667733191715" duration="6263000" />
+      <workItem from="1667792964535" duration="35583000" />
+      <workItem from="1668088860874" duration="8785000" />
+      <workItem from="1668349627699" duration="831000" />
+      <workItem from="1668351570432" duration="114000" />
+      <workItem from="1668431289288" duration="644000" />
+      <workItem from="1668481795746" duration="1319000" />
+      <workItem from="1668505043174" duration="1879000" />
+      <workItem from="1668517610392" duration="921000" />
+      <workItem from="1668578884195" duration="38695000" />
+      <workItem from="1668835926353" duration="21467000" />
+      <workItem from="1668940009017" duration="29846000" />
+      <workItem from="1669190479960" duration="2509000" />
+      <workItem from="1669275753221" duration="1216000" />
+      <workItem from="1669540093296" duration="695000" />
+      <workItem from="1669969312214" duration="606000" />
+      <workItem from="1669970612595" duration="621000" />
+      <workItem from="1670293914449" duration="85000" />
+      <workItem from="1670294039929" duration="43000" />
+      <workItem from="1670296236875" duration="628000" />
+      <workItem from="1674193533813" duration="622000" />
+      <workItem from="1675099650026" duration="39031000" />
+      <workItem from="1675261945839" duration="222000" />
+      <workItem from="1675262184151" duration="4181000" />
+      <workItem from="1676119431922" duration="118000" />
+      <workItem from="1676119559689" duration="45797000" />
+      <workItem from="1676510625956" duration="27955000" />
+      <workItem from="1676745052409" duration="1393000" />
+      <workItem from="1676772574464" duration="1266000" />
+      <workItem from="1676855997113" duration="1342000" />
+      <workItem from="1676880596977" duration="2752000" />
+      <workItem from="1677292352397" duration="1375000" />
+      <workItem from="1677413205526" duration="1260000" />
+      <workItem from="1677752318193" duration="1923000" />
+      <workItem from="1677894074814" duration="5657000" />
+      <workItem from="1678102203230" duration="57000" />
+      <workItem from="1678774136597" duration="958000" />
+      <workItem from="1678789492203" duration="322000" />
+      <workItem from="1678966465093" duration="333000" />
+      <workItem from="1678966811946" duration="85000" />
+      <workItem from="1680051352793" duration="1233000" />
+      <workItem from="1682239906728" duration="1681000" />
+      <workItem from="1762584786835" duration="433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dun$atv8_csa.coverage" NAME="atv8_csa Coverage Results" MODIFIED="1666332003785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$at135xiu_v3.coverage" NAME="at135xiu_v3 Coverage Results" MODIFIED="1665890715946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet.coverage" NAME="MSCANUnet Coverage Results" MODIFIED="1665581864226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_at_1.coverage" NAME="MSCANUnet_at_1 Coverage Results" MODIFIED="1665798297409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_at135xiu_v2__1_.coverage" NAME="MSCANUnet_at135xiu_v2 (1) Coverage Results" MODIFIED="1665974111848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$at_v10.coverage" NAME="at_v10 Coverage Results" MODIFIED="1666787749934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_drop03.coverage" NAME="MSCANUnet_drop03 Coverage Results" MODIFIED="1665461723830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$van1.coverage" NAME="van1 Coverage Results" MODIFIED="1666185355682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$ConvUNeXt.coverage" NAME="ConvUNeXt Coverage Results" MODIFIED="1677896264958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$atten_unet.coverage" NAME="atten_unet Coverage Results" MODIFIED="1682240126320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_na.coverage" NAME="MSCANUnet_na Coverage Results" MODIFIED="1665578094384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$amsnewnorsc.coverage" NAME="amsnewnorsc Coverage Results" MODIFIED="1676706924511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$ResUNet.coverage" NAME="ResUNet Coverage Results" MODIFIED="1677896239105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_Atrous.coverage" NAME="MSCANUnet_Atrous Coverage Results" MODIFIED="1665658509640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_v3_drop1.coverage" NAME="MSCANUnet_v3_drop1 Coverage Results" MODIFIED="1665720242545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_at135_xiu.coverage" NAME="MSCANUnet_at135_xiu Coverage Results" MODIFIED="1665842642545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_at135aspp.coverage" NAME="MSCANUnet_at135aspp Coverage Results" MODIFIED="1665798971402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$at_v8_1131.coverage" NAME="at_v8_1131 Coverage Results" MODIFIED="1666165329242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$UNet.coverage" NAME="UNet Coverage Results" MODIFIED="1682240039220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$amsnewbnqian.coverage" NAME="amsnewbnqian Coverage Results" MODIFIED="1682239963566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$double_UNeXt.coverage" NAME="double_UNeXt Coverage Results" MODIFIED="1662687320415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dun$predict.coverage" NAME="predict Coverage Results" MODIFIED="1668930898995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dun$at135_v5.coverage" NAME="at135_v5 Coverage Results" MODIFIED="1666007349237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_v3_noaspp.coverage" NAME="MSCANUnet_v3_noaspp Coverage Results" MODIFIED="1665564897321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_v3_k7.coverage" NAME="MSCANUnet_v3_k7 Coverage Results" MODIFIED="1665887316841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$atv9.coverage" NAME="atv9 Coverage Results" MODIFIED="1675219727797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$double_UNeXt__1_.coverage" NAME="double_UNeXt (1) Coverage Results" MODIFIED="1663037400982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$amsnew.coverage" NAME="amsnew Coverage Results" MODIFIED="1675221484344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$NestedUnet.coverage" NAME="NestedUnet Coverage Results" MODIFIED="1682240095250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_v3.coverage" NAME="MSCANUnet_v3 Coverage Results" MODIFIED="1665720096332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$doubleunext.coverage" NAME="doubleunext Coverage Results" MODIFIED="1662549889200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dun$atv5_attn.coverage" NAME="atv5_attn Coverage Results" MODIFIED="1666150027413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$atv6.coverage" NAME="atv6 Coverage Results" MODIFIED="1666068170785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$unetr.coverage" NAME="unetr Coverage Results" MODIFIED="1676706895044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_v3_nd.coverage" NAME="MSCANUnet_v3_nd Coverage Results" MODIFIED="1665295411558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$at135xiu_v4.coverage" NAME="at135xiu_v4 Coverage Results" MODIFIED="1665926029792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dun$MSCANUnet_at1131.coverage" NAME="MSCANUnet_at1131 Coverage Results" MODIFIED="1665642157059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
